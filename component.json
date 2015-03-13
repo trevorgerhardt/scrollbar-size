@@ -1,0 +1,7 @@
+{
+	"name": "scrollbar-size",
+	"repo": "trevorgerhardt/scrollbar-size",
+	"scripts": [
+		"index.js"
+	]
+}
